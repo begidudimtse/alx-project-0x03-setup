@@ -1,7 +1,7 @@
 import { 
 FaFacebook, 
 FaTwitter,
-FaInstagram } from 'react-icons/fa'; 
+FaInstagram } from "react-icons/fa"; 
 
 const Footer: React.FC = () => {
   return (
